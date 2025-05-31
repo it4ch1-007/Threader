@@ -1,0 +1,3 @@
+### This is a python tool that takes up the for loop or while loop of the program to suggest how many threads should be assigned (in multithreading) and how much workers should be assigned to the loop instead (in ThreadPoolExecutor)
+
+### And also tells how much the time can be reduced for those loops ....
