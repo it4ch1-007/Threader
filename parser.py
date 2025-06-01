@@ -20,4 +20,3 @@ def parse_for_loop_c_cpp(loop_code: str):
     
     return start,end
 
-print(parse_for_loop_c_cpp("for(int i=0;i<1000;i++)"))
